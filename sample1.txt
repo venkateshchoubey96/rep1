@@ -11,4 +11,5 @@ Example Git commands:
 8. git show <commit hash ID> - to display the changes in particular commit
 9. git ls-files - to display all the files being tracked by current repository
 10. git add remote origin <remote repository link> - to link local rep with remote rep.
+11. git remote -v - to check if local rep is linked with remote rep with the alias.
  
