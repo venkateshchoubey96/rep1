@@ -1,0 +1,10 @@
+This is sample file to begin with in Git.
+
+Example Git commands:
+1. git init - "create a local repository"
+2. git config --global user.name <"username"> - to configure user name for repository 
+3. git config --global user.email <"email"> - to configure user email
+4. git status - to track status of local repository
+5. git add <filename/.>- to move file from working directory to staging area
+6. git commit -m <"message"> - to commit file to local repository from staging area with message as comment
+ 
