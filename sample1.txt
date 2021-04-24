@@ -9,4 +9,6 @@ Example Git commands:
 6. git commit -m <"message"> - to commit file to local repository from staging area with message as comment
 7. git log - to show summary of commits made to local repository
 8. git show <commit hash ID> - to display the changes in particular commit
+9. git ls-files - to display all the files being tracked by current repository
+
  
