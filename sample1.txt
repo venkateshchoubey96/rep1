@@ -7,4 +7,6 @@ Example Git commands:
 4. git status - to track status of local repository
 5. git add <filename/.>- to move file from working directory to staging area
 6. git commit -m <"message"> - to commit file to local repository from staging area with message as comment
+7. git log - to show summary of commits made to local repository
+8. git show <commit hash ID> - to display the changes in particular commit
  
