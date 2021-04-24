@@ -10,5 +10,5 @@ Example Git commands:
 7. git log - to show summary of commits made to local repository
 8. git show <commit hash ID> - to display the changes in particular commit
 9. git ls-files - to display all the files being tracked by current repository
-
+10. git add remote origin <remote repository link> - to link local rep with remote rep.
  
