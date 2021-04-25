@@ -12,4 +12,6 @@ Example Git commands:
 9. git ls-files - to display all the files being tracked by current repository
 10. git add remote origin <remote repository link> - to link local rep with remote rep.
 11. git remote -v - to check if local rep is linked with remote rep with the alias.
+12. git push <alias> <branch> - to push the changes to remote rep with alias <alias> (default-origin)
+                                and branch <branch> (default-master)
  
